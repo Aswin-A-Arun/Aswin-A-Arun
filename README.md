@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Aswin-A-Arun
+- 👋 Hullo, I’m @Aswin-A-Arun
 - 👀 I’m interested in a lot of things
-- 🌱 I’m currently learning even more things
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: try not to.
+- 🌱 I’m currently learning unnecessary things
+- 💞️ I’m looking to collaborate on not a single thing
+- 📫 How to reach me: by not trying to reach me.
 
 <!---
 Aswin-A-Arun/Aswin-A-Arun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
